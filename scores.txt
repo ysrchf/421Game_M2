@@ -1,0 +1,10 @@
+Round 1: 3
+Round 2: 9
+Round 1: 5
+Round 2: 9
+Round 3: 14
+Round 4: 18
+Round 5: 22
+Round 6: 26
+Round 7: 31
+Round 8: 36
